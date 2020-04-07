@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # 변수 (variable)
 num = 123
 text = "test"
