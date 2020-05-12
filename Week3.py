@@ -73,3 +73,8 @@ result = 0
 for i in range(1, 11):
     result += i
 print(result)
+
+arr = [5, 6, 3, 6]
+
+for i, j in enumerate(arr):
+    print(i, j)
